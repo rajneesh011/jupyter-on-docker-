@@ -1,6 +1,6 @@
 FROM centos:latest
 
-RUN yum install forefox -y
+RUN yum install firefox -y
 
 RUN yum install python3 -y
 
